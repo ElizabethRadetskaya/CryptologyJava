@@ -1,0 +1,17 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚éç÷8«×“Œƒ2J$77277390-8177-4213-9f21-67176396cd3d
+
+java:S1659"MDeclare "encryptedMessage" and all following declarations on a separate line.(ûâö8±×“Œƒ2J$8aeec739-f29d-41b1-959a-cb7d968789c6
+o
+java:S1481",Remove this unused "message" local variable.(ûâö8±×“Œƒ2J$f6d5966d-b836-4ad6-8d68-eddca14cca58
+x
+java:S1481"5Remove this unused "encryptedMessage" local variable.(ûâö8±×“Œƒ2J$bcecbdb1-740a-49aa-9f70-79b6645edcd7
+k
+java:S1481"(Remove this unused "key" local variable.(‚äª8²×“Œƒ2J$4acde8fe-c48d-4ed4-891a-42df8de60b59
+j
+java:S1481"'Remove this unused "ch" local variable.(“¶˜ì8²×“Œƒ2J$a1a962de-9ec2-488a-a4ed-ef63bec2ef69
+r	java:S106"+Replace this use of System.out by a logger.(ÂÿìÜøÿÿÿÿ8µ×“Œƒ2J$f49080ea-b591-4b88-9abc-7e53de36e277
+r	java:S106"+Replace this use of System.out by a logger.(–¡Ş¹ûÿÿÿÿ8µ×“Œƒ2J$3312505a-fd5c-4c77-9377-28116b6ca5e7
+m	java:S106"+Replace this use of System.out by a logger.(¶¨…à8Ïª™Œƒ2J$53512c19-e6e2-4497-8dc3-6202659d5a66
+r	java:S106"+Replace this use of System.out by a logger.(—çØÛÿÿÿÿÿ8Ïª™Œƒ2J$b70a148a-3520-485e-8bf8-b64fd4858223
+i	java:S131""Add a default case to this switch.(îÇËúÿÿÿÿ8¶×“Œƒ2J$cd77035d-d75a-4710-8172-15f5fb76452b

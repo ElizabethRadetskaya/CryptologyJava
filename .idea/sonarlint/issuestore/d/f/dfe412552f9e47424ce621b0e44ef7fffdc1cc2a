@@ -1,0 +1,11 @@
+
+–
+java:S2095C"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¥íåíøÿÿÿÿ8Ø€¨¯„2J$a5246abd-5377-4ac1-af34-f67fd96d521e
+}
+java:S1118":Add a private constructor to hide the implicit public one.(óŞÊç8Ú€¨¯„2J$80152d47-2880-4ef2-80f0-cd91e0cffcea
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(şÜ‹ûÿÿÿÿ8Û€¨¯„2J$9c498577-23b0-4fa8-a741-020f39897301
+r	java:S106"+Replace this use of System.out by a logger.(Ä±Û†ûÿÿÿÿ8İ€¨¯„2J$b0e11ffe-056b-4178-b477-2ffe07ea7276
+l	java:S106+"+Replace this use of System.out by a logger.(òêu8ß€¨¯„2J$4994e8b3-74a0-4d19-900d-aca4f7dda39e
+r	java:S106."+Replace this use of System.out by a logger.(úÙÜÜûÿÿÿÿ8ß€¨¯„2J$8a254ecd-c3ee-4fba-b81d-5558df0db815
+r	java:S106I"+Replace this use of System.out by a logger.(Æ÷‡Âıÿÿÿÿ8à€¨¯„2J$b41a1cc0-155d-4758-977e-bf39ac747900

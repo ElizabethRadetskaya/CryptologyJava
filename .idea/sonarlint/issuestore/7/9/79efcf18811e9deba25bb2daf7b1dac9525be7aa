@@ -1,0 +1,9 @@
+
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(¨ÙÒÞúÿÿÿÿ8šæ¹‹ƒ2J$c129a386-dc36-4807-987d-bb9a3f2475ca
+•
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(™Ú²Ã8¤Ù‹‹ƒ2J$ab0856ba-0709-4cba-abea-e0208f951c4e
+^
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ8¦Ù‹‹ƒ2J$8e8cb7b7-d150-4093-bf7c-c28135d8bfdf
+m	java:S106"+Replace this use of System.out by a logger.(ãðê·8¬Ù‹‹ƒ2J$6df1e65b-ce20-4bcc-9bbb-1859fad7e40e
+m	java:S106#"+Replace this use of System.out by a logger.(ë¬ÑÊ8­Ù‹‹ƒ2J$bae8ce36-8468-423d-a0d3-0c4c370b1126
