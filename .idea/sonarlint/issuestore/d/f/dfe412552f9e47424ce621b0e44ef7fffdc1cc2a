@@ -1,11 +1,11 @@
 
-–
-java:S2095C"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¥íåíøÿÿÿÿ8Ø€¨¯„2J$a5246abd-5377-4ac1-af34-f67fd96d521e
+‘
+java:S2095F"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(„ªèç8ì”ğ¶„2J$7854a0e5-cee7-4fc3-8f55-8f182a44468d
 }
-java:S1118":Add a private constructor to hide the implicit public one.(óŞÊç8Ú€¨¯„2J$80152d47-2880-4ef2-80f0-cd91e0cffcea
+java:S1118":Add a private constructor to hide the implicit public one.(óŞÊç8ğ”ğ¶„2J$44f966ff-a41e-4841-a060-aceb28199176
 š
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(şÜ‹ûÿÿÿÿ8Û€¨¯„2J$9c498577-23b0-4fa8-a741-020f39897301
-r	java:S106"+Replace this use of System.out by a logger.(Ä±Û†ûÿÿÿÿ8İ€¨¯„2J$b0e11ffe-056b-4178-b477-2ffe07ea7276
-l	java:S106+"+Replace this use of System.out by a logger.(òêu8ß€¨¯„2J$4994e8b3-74a0-4d19-900d-aca4f7dda39e
-r	java:S106."+Replace this use of System.out by a logger.(úÙÜÜûÿÿÿÿ8ß€¨¯„2J$8a254ecd-c3ee-4fba-b81d-5558df0db815
-r	java:S106I"+Replace this use of System.out by a logger.(Æ÷‡Âıÿÿÿÿ8à€¨¯„2J$b41a1cc0-155d-4758-977e-bf39ac747900
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(şÜ‹ûÿÿÿÿ8ò”ğ¶„2J$5fea8fc6-81f9-4b19-8c7b-4195bab670bd
+m	java:S106"+Replace this use of System.out by a logger.(‹¨È¿8÷”ğ¶„2J$797b25b9-d125-4bcc-9857-6ea069191483
+r	java:S106."+Replace this use of System.out by a logger.(ï˜¬ııÿÿÿÿ8ú”ğ¶„2J$c4b3a8da-541e-4c50-a56e-f3c0d54a6d84
+r	java:S1061"+Replace this use of System.out by a logger.(úÙÜÜûÿÿÿÿ8ú”ğ¶„2J$b7389a06-4a2d-4e6d-9c07-c2bc01878c7d
+r	java:S106L"+Replace this use of System.out by a logger.(Æ÷‡Âıÿÿÿÿ8û”ğ¶„2J$1b30f8ad-d738-4c6e-9a9f-0db094090f5f
